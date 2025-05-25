@@ -1,5 +1,7 @@
 <?php
 
+// Acesse a documentação https://github.com/JonathanBufon/meu-grafo-interativo-php 
+
 /**
  * Classe para representar um Grafo usando Lista de Adjacência.
  */
