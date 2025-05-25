@@ -1,6 +1,6 @@
 # Lista de Adjacência Interativa by Jonathan Bufon (TPE-II parte 2)
 
-Este projeto implementa uma lista de adjacência para representar grafos, permitindo a interação do usuário através de uma interface web simples gerada com PHP e HTML. Você pode adicionar nós, criar arestas (direcionadas ou não direcionadas) entre eles e visualizar a estrutura do grafo em tempo real. Este trabalho pode ser parte do contexto de "TPE-II parte 2".
+Este projeto implementa uma lista de adjacência em PHP e HTML para a representação interativa de grafos. A interface web permite ao usuário adicionar nós, criar arestas (direcionadas ou não direcionadas) e visualizar a estrutura do grafo em tempo real. Desenvolvido como Trabalho Prático Escolar II (TPE-II), Parte 2, este trabalho foi realizado durante o 3º semestre do curso de Ciência da Computação na Unochapecó (Universidade Comunitária da Região de Chapecó).
 
 ## Pré-requisitos
 
